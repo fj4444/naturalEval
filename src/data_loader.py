@@ -17,7 +17,7 @@ sys.path.append("../renderer/")
 import nmr_test as nmr
 
 class MyDataset(Dataset):
-    def __init__(self, data_dir, img_size, device=0, gaze_dir=''):
+    def __init__(self, data_dir, label_file, split_str, img_size, device=0, gaze_dir=''):
         '''
         static_path = "/root/autodl-tmp/experiment_picture/"
         data_dir = "/root/autodl-tmp/experiment_picture/"
