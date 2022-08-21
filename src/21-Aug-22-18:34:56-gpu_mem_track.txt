@@ -1,0 +1,11 @@
+GPU Memory Track | 21-Aug-22-18:34:56 | Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 301: <module>                        Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 115: run                             Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 119: run                             Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+

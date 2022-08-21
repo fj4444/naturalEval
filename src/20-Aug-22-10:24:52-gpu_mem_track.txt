@@ -1,0 +1,3857 @@
+GPU Memory Track | 20-Aug-22-10:24:52 | Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 265: <module>                        Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 112: run                             Total Tensor Used Memory:0.0    Mb Total Allocated Memory:0.0    Mb
+
+
+At train.py line 123: run                             Total Tensor Used Memory:97.7   Mb Total Allocated Memory:97.8   Mb
+
+
+At train.py line 126: run                             Total Tensor Used Memory:97.7   Mb Total Allocated Memory:97.8   Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:97.7   Mb Total Allocated Memory:97.8   Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:97.7   Mb Total Allocated Memory:97.8   Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1166.7 Mb Total Allocated Memory:1203.8 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1166.7 Mb Total Allocated Memory:1203.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1905.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1901.7 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1904.8 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1899.8 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1398.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1902.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.4 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.4 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1900.8 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1904.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.1 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.1 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1901.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.4 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.4 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1905.3 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.1 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.1 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1903.7 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1906.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1902.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1398.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.2 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1906.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.8 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.8 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1902.4 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.0 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.4 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1398.4 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1904.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1399.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1399.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1904.8 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1907.9 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1401.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.1 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.1 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1905.3 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1400.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1400.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1910.3 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1402.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1908.4 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1402.1 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1402.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1908.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1402.2 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1910.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1401.8 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1401.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1909.9 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.4 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.8 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1402.8 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1912.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.1 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.1 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.0 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.6 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1403.7 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.5 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.5 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.9 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1915.0 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.6 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.6 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.9 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1916.5 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.0 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.8 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.8 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.0 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.4 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.8 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1403.8 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1915.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1404.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.4 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1404.4 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1911.9 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1405.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.0 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.0 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1917.1 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1405.4 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.2 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.2 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1913.4 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1914.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.3 Mb
+
+
+At train.py line 133: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 138: run                             Total Tensor Used Memory:1361.3 Mb Total Allocated Memory:1405.7 Mb
+
+
+At train.py line 143: run                             Total Tensor Used Memory:1845.3 Mb Total Allocated Memory:1918.2 Mb
+
+
+At train.py line 174: run                             Total Tensor Used Memory:1361.7 Mb Total Allocated Memory:1406.6 Mb
+
+
+At train.py line 192: run                             Total Tensor Used Memory:1363.6 Mb Total Allocated Memory:1408.8 Mb
+

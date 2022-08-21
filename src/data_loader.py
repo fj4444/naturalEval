@@ -60,8 +60,10 @@ class MyDataset(Dataset):
                     answer = ret     
                 else:
                     answer += ret
-                    
-        return answer / count
+        if count > 0:  
+            return answer / count
+        else:
+            return np.array(np.zeros((224, 224)).astype(np.uint8))
 
     def preprocess_csv(self, file):
         imagefile = None
