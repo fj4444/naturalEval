@@ -152,7 +152,7 @@ class GradCam():
 
 class VisualSimilarityModel(nn.Module):
     def __init__(self, input_dim=256, hidden_dim=1000, output_dim=5, model_choice='resnet50', 
-        classifier_choice='linear', batch_size=16, layer_id='layer4', device=None):
+        classifier_choice='linear', batch_size=16, layer_id='layer4', noise_type="uniform", device=None):
         super(VisualSimilarityModel, self).__init__()
         self.input_dim = input_dim
         self.hidden_dim = hidden_dim
@@ -185,6 +185,12 @@ class VisualSimilarityModel(nn.Module):
         self.nc = 256
         # self.generate = Generator(ngpu=1, nz=self.nz, ngf=self.ngf, nc=self.nc).to(device)
         self.batch_size = batch_size
+        self.noise = None
+        if noise_type == "gauss":
+            self.noise = torch.randn(self.batch_size, self.output_dim).to(device)
+        elif noise_type == "uniform":
+            self.noise = torch.rand(self.batch_size, self.output_dim).to(device)
+        self.device = device
 
     def computecam(self, img, index, t_index=None):
         img = img / 255
@@ -241,7 +247,10 @@ class VisualSimilarityModel(nn.Module):
         # print(meminfo.free/1024**2)  #剩余显存大小
         encoded = self.encoder(x)
         # Given groups=1, weight of size [64, 3, 7, 7], expected input[16, 2048, 2048, 3] to have 3 channels, but got 2048 channels instead
-        
+        # ipdb.set_trace()
+        encoded_pair = self.embedding(encoded)
+        klLossFunc = nn.KLDivLoss(reduction="batchmean", log_target=True)
+        klLoss = klLossFunc(encoded_pair, self.noise)
         # print(meminfo.total/1024**2) #总的显存大小
         # print(meminfo.used/1024**2)  #已用显存大小
         # print(meminfo.free/1024**2)  #剩余显存大小
@@ -254,7 +263,7 @@ class VisualSimilarityModel(nn.Module):
             downsample = self.downsample(gaze)
         noise = torch.randn(self.batch_size, self.nz, 1, 1, device=self.device)
         # generate = self.generate(noise)
-        return classified, cam, downsample # , generate
+        return classified, cam, downsample, klLoss # , generate
 
 
 class Generator(nn.Module):
